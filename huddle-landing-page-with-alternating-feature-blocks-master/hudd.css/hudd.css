@@ -1,0 +1,282 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+   
+    
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color:white;
+    text-align: center;
+    max-width: 360px;
+    margin: 0 auto;
+
+
+
+}
+
+main{
+    margin: 0 auto;
+    overflow: visible;
+        position: relative;
+        background-color: hsl(193, 100%, 96%);
+        padding-bottom: 4rem;
+        max-width: 360px;
+
+}
+
+.container{
+    background-image: url(/huddle-landing-page-with-alternating-feature-blocks-master/images/bg-hero-mobile.svg);
+    max-width: 360px;
+    max-height: 650;
+    box-shadow: 0px 5px 9px black;
+}
+
+.color{
+    color: hsl(208, 11%, 55%);
+}
+
+
+.huddle{
+display: flex;
+justify-content: space-between;
+margin-top: 20px;
+padding-top: 25px;
+}
+
+.wrapper-head{
+    margin-top: 50px;
+    padding: 0 30px;
+    
+}
+.text-head{
+    margin-top: 16px;
+}
+
+.huddle img{
+    max-width: 90px;
+    margin-left: 20px;
+}
+
+.free{
+    background-color: white;
+    padding: 2px 10px;
+    border: 2px solid white;
+    border-radius: 20px;
+    margin-right: 20px;
+    
+}
+h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+.button-head{
+    margin-top: 20px;
+    padding: 0.6rem 4rem;
+    border-radius: 25px;
+    background-color: hsl(322, 100%, 66%);
+    border: 5px solid hsl(322, 100%, 66%);
+    color: hsl(193, 100%, 96%);
+}
+.second{
+    margin-top: 20px;
+    border-radius: 16px;
+    box-shadow: 0px 5px 9px black;
+}
+.image-head img{
+    max-width: 300px;
+    margin-top: 30px;
+    
+}
+
+.second-image img{
+    max-width: 300px;
+    margin-top: 60px;
+    
+}
+
+.second-text{
+    margin-top: 30px;
+    padding: 0 30px;
+}
+
+.second-text p{
+    margin-top: 20px;
+    padding-bottom: 4rem;
+}
+
+
+.third{
+    margin-top: 30px;
+    border-radius: 16px;
+    box-shadow: 0px 5px 9px black;
+}
+
+.third-image img{
+    max-width: 300px;
+        margin-top: 60px;
+}
+
+.third-text{
+    margin-top: 50px;
+        padding: 0 30px;
+        padding-bottom: 4rem;
+}
+.third-text p{
+    margin-top: 20px;
+}
+
+.fourth{
+    margin-top: 30px;
+    padding-bottom: 4rem;
+    margin-bottom: 10rem;
+    border-radius: 16px;
+    box-shadow: 0px 5px 9px black;
+}
+
+.fourth-image img{
+    max-width: 300px;
+        margin-top: 60px;
+}
+
+.fourth-text {
+    margin-top: 50px;
+    padding: 0 30px;
+}
+
+.box{
+    padding: 30px 30px;
+    background-color: hsl(193, 100%, 96%);
+    border-radius: 20px;
+    margin-left: 6px;
+    box-shadow: 0px 5px 9px black;
+    
+}
+
+.last{
+    background-color: hsl(192, 100%, 9%);
+    text-align: left;
+    color: hsl(193, 100%, 96%);
+    padding-top: 8rem;
+    
+}
+.box{
+  position: absolute;
+  top: 147rem;
+}
+
+address{
+    font-style: normal;
+   padding-right: 70px;
+   margin-left: 30px;
+}
+
+.nav-last{
+    margin-top: 2rem;
+    
+}
+
+.nav-last ul li a{
+    
+    text-decoration: none;
+    color: hsl(193, 100%, 96%);
+   
+}
+
+.nav-last ul li{
+    padding: 0.2rem 0;
+    padding-left: 20px;
+    list-style-type: none;
+}
+.last-image img{
+    width: 10rem;
+    margin-left: 24px;
+}
+
+.last-text{
+    padding-bottom: 4rem;
+    margin-top: 4rem;
+    margin-left: 10px;
+    
+}
+
+.location{
+    display: flex;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+code{
+    margin-left: 30px
+}
+
+.tel{
+    display: flex;
+    margin-left: 20px;
+        margin-top: 30px;
+}
+.email{
+    margin-left: 30px;
+}
+
+.email_g{
+    display: flex;
+    margin-left: 20px;
+    margin-top: 30px;
+    
+       
+}
+
+.facebook img{
+    max-width: 80px;
+    max-height: 50px; 
+    border: 2px solid hsl(193, 100%, 96%); 
+    padding: 10px;
+    border-radius: 40px;
+    margin-left: 20px;
+
+}
+
+.facebook{
+    /* display: flex;*/
+    margin-left: 4px; 
+    /* border: 2px solid hsl(193, 100%, 96%);
+    
+} */}
+
+.real{
+    overflow: visible;
+}
+
+
+.social_media{
+    margin-left: 45px;
+    margin-top: 40px;
+    /* display: flex; */
+    /* justify-content: center;
+    align-items: center; */
+/* display: block; */
+
+}
+
+/* .real img{
+    border-radius: 50px;
+} */
+footer{
+    background-color: hsl(192, 100%, 9%);
+    color: hsl(193, 100%, 96%);
+    padding-bottom: 3rem;
+}
+
+footer p a{
+    text-decoration: none;
+    color: hsl(193, 100%, 96%);
+}
+
+/* .last-image{
+    margin-top: 7rem;
+} */
